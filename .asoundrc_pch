@@ -1,0 +1,8 @@
+c = PCH
+d = 0
+
+defaults.pcm.!card c
+defaults.pcm.!device d
+defaults.pcm.!ctl c
+defaults.pcm.dmix.rate 96000
+defaults.pcm.rate_converter "speexrate_best"
