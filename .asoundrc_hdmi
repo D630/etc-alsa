@@ -1,5 +1,5 @@
 c = HDMI
-d = 3
+d = 9
 
 defaults.pcm.!card c
 defaults.pcm.!device d
